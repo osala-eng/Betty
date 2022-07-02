@@ -9,6 +9,7 @@ Run the script `install.sh` with **sudo privileges** to install `betty-style` an
  * _betty(1)_
  * _betty-style(1)_
  * _betty-doc(1)_
+ * _createbetty(1)_
 
 ### Documentation
 
@@ -27,3 +28,7 @@ betty-style file1 [file2 [file3 [...]]]
 ```ShellSession
 betty-doc file1 [file2 [file3 [...]]]
 ```
+
+```ShellSession
+createbetty filename1 [filename2 [filename3 [...]]]
+``` 
